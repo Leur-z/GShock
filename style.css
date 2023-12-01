@@ -43,6 +43,7 @@ header {
 .logo img {
     width: 15rem;
     filter: invert(1);
+    cursor: pointer;
 }
 
 nav ul {
